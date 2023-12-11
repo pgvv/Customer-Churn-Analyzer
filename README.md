@@ -73,7 +73,4 @@ On the exploratory data analysis page, users can visualize the selected data fil
 - The Influencing Factors section helps understand the major driving forces behind customer churn behavior.
 - Our churn analyzer tool provides a comprehensive view of customer churn risk, enabling businesses to take proactive steps to retain their customers.
 ![picture alt](https://github.com/HarshaVardhan547/ML-Based-BI-Web-Application-Frontend/blob/207c1b9dcc724251c9292fe591c2ba094b6490c0/assets%20for%20readme/individual.png)
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
